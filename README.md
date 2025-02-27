@@ -8,8 +8,8 @@ This repository contains past and current projects while learning python for Dat
 - Jupyter Notebook
 
 ## 🚀 Projects
-### 📂 Employee Churn:
+### [📂 Employee Churn:](Predicting Employee Churn.ipynb)
 - Training
 
-### 📂 Blackboard:
+### [📂 Blackboard:](Blackboard.py)
 - Using object oriented programming to build a student management application that can manage students, course for a university.
