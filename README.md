@@ -1,4 +1,4 @@
- # 📌 Description  
+# 📌 Description  
 This repository contains past and current projects while learning python for Data Science and Data Engineering. For now it is just a script dump for python.
 
 # Softwares:
