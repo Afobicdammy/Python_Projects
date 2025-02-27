@@ -8,7 +8,7 @@ This repository contains past and current projects while learning python for Dat
 - Jupyter Notebook
 
 ## 🚀 Projects
-### [📂 Employee Churn:](Predicting Employee Churn.ipynb)
+### [📂 Employee Churn:]("Predicting Employee Churn.ipynb")
 - Training
 
 ### [📂 Blackboard:](Blackboard.py)
